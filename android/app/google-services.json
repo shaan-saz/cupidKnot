@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "621388984661",
+    "project_id": "cupidknot-test",
+    "storage_bucket": "cupidknot-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621388984661:android:8c778c1bf62d6513b2bfdc",
+        "android_client_info": {
+          "package_name": "com.ritik.cupid.cupid_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621388984661-viodv6qfufrsjpc92fiug90pqhpmtf21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ritik.cupid.cupid_test",
+            "certificate_hash": "050fa9d89091dbf441d7e871f0533cd95b81e749"
+          }
+        },
+        {
+          "client_id": "621388984661-9ie2ekoajb149n0p887utidvntm5to5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgoNiLkwkcUNFs7b0dOhE3UfyA-CxoxFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621388984661-9ie2ekoajb149n0p887utidvntm5to5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
